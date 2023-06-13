@@ -1,0 +1,20 @@
+nav{
+    background: #cecece;
+}
+
+nav ul{
+    padding-left:0px;
+    text-align: center;
+}
+
+nav li{
+    display: inline-block;
+    margin: 15PX 20px;
+    font-size: 20px;
+    text-transform: uppercase;
+
+}
+
+h2{
+    border-bottom: 1px  solid black;
+}
